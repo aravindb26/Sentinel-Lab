@@ -25,7 +25,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/c3WEkKD.jpg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/iaxtY1u.jpg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
